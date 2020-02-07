@@ -69,9 +69,9 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
   James, Witten, Hastie, and Tibshirani, An Introduction to Statistical Learning, Springer ([link](http://faculty.marshall.usc.edu/gareth-james/ISL/))
 
 * **Recommended Textbook**:<br />
-  Efron and Hastie, Computer Age Statistical Inference, Cambridge University Press <br />
-  Irizarry, Introduction to Data Science: Data Analysis and Prediction Algorithms in R, CRC Press ([link](https://rafalab.github.io/dsbook/))<br />
-  Grolemund and Wickham, R for Data Science, O’Reilly ([link](https://r4ds.had.co.nz/))
+  * Efron and Hastie, Computer Age Statistical Inference, Cambridge University Press <br />
+  * Irizarry, Introduction to Data Science: Data Analysis and Prediction Algorithms in R, CRC Press ([link](https://rafalab.github.io/dsbook/))<br />
+  * Grolemund and Wickham, R for Data Science, O’Reilly ([link](https://r4ds.had.co.nz/))
 
 * **More Advanced Textbook**:<br />
   Bishop, Pattern Recognition and Machine Learning, Springer ([link](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf))<br />
