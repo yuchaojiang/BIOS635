@@ -19,9 +19,9 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **[Tentative Schedule](https://www.dropbox.com/s/75e4jzkr52i2qa2/CourseSchedule.pdf?dl=0)**
 
-* **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am, 2301, McGavran-Greenberg Hall.
+* **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am, 2301 McGavran-Greenberg Hall.
 
-* **Office Hours**: Thursdays, 2:00pm – 3:00pm, 3102, McGavran-Greenberg Hall. Virtual office hours may be conducted via Zoom/Whereby.
+* **Office Hours**: Thursdays, 2:00pm – 3:00pm, 3102 McGavran-Greenberg Hall. Virtual office hours may be conducted via Zoom/Whereby.
 
 ## Lecture Slides and R Markdowns
 
@@ -29,9 +29,16 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ## Homework
 
+* **Assignment 1**:
+
 ## Project
 
-* 
+* **Project 1**:
+
+* **Project 2**:
+
+* **Project 3**:
+
 
 ## Other Resources
 
