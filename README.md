@@ -28,25 +28,25 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ## Lecture Slides and R Markdowns
 
-* **Lecture 1**: Introduction (slides)
+* **Lecture 1**: Introduction ([slides](https://www.dropbox.com/s/erbn3lwwlklwo1f/Lecture_1_Intro.pdf?dl=0))
 
-* **Lecture 2**: Curse of Dimensionality & Assessing Model Accuracy (slides)
+* **Lecture 2**: Curse of Dimensionality & Assessing Model Accuracy ([slides](https://www.dropbox.com/s/xvfnghxxyvo29r9/Lecture_2_curse_of_dimensionality_model_assessment.pdf?dl=0))
 
-* **Lecture 3**: Bias-Variance Tradeoff & K-Nearest Neighbor (slides, html)
+* **Lecture 3**: Bias-Variance Tradeoff & K-Nearest Neighbor ([slides](https://www.dropbox.com/s/b18vww2jryeqzvd/Lecture_3_knn_bias_variance.pdf?dl=0), html)
 
-* **Lecture 4**: Linear Regression (slides, html)
+* **Lecture 4**: Linear Regression ([slides](https://www.dropbox.com/s/kvbxaxijkx6li39/Lecture_4_linear_regression.pdf?dl=0), html)
 
-* **Lecture 5**: Logistic Regression (slides, html)
+* **Lecture 5**: Logistic Regression ([slides](https://www.dropbox.com/s/03rlp16nxcla9dc/Lecture_5_logistic_regression.pdf?dl=0), html)
 
-* **Lecture 6**: Linear/Discriminant Analysis (slides, html)
+* **Lecture 6**: Linear/Discriminant Analysis ([slides](https://www.dropbox.com/s/t5588cr489wbmna/Lecture_6_LDA_QDA.pdf?dl=0), html)
 
-* **Lecture 7**: Naive Bayes (slides, html)
+* **Lecture 7**: Naive Bayes ([slides](https://www.dropbox.com/s/xblwqsd2gx5m89u/Lecture_7_Naive_Bayes.pdf?dl=0), html)
 
-* **Lecture 8**: Nonlinearity: Polynomial Regression, Spline & Generalized Additive Model (slides, html)
+* **Lecture 8**: Nonlinearity: Polynomial Regression, Spline & Generalized Additive Model ([slides](https://www.dropbox.com/s/qv0agbhjwr7wjhk/Lecture_8_Nonlinearity_Polynomial_Splines.pdf?dl=0), html)
 
-* **Lecture 9**: Cross-Validation (slides, html)
+* **Lecture 9**: Cross-Validation ([slides](https://www.dropbox.com/s/nqb8pn78g816gxz/Lecture_9_Cross_Validation.pdf?dl=0), html)
 
-* **Lecture 10**: Bootstrap (slides, html)
+* **Lecture 10**: Bootstrap ([slides](https://www.dropbox.com/s/qi3xfy7chz5ecyh/Lecture_10_Bootstrap.pdf?dl=0), html)
 
 ## Homework
 
