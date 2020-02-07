@@ -1,4 +1,4 @@
-# BIOS635: Introduction to Machine Learning
+![Image description](https://www.dropbox.com/s/opsx0r1s4jomnop/title.png?dl=0)
 
 ## Instructor
 
