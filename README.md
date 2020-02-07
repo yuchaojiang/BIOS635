@@ -23,6 +23,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Office Hours**: Thursdays, 2:00pm – 3:00pm, 3102 McGavran-Greenberg Hall. Virtual office hours may be conducted via Zoom/Whereby.
 
+* **Grader**: Emily Damone, edamone@live.unc.edu.
+
 ## Lecture Slides and R Markdowns
 
 * **Lecture 1**: 
