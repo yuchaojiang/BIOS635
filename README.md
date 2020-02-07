@@ -65,19 +65,19 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ## Other Resources
 
-* **Required Textbook**:<br />
-  James, Witten, Hastie, and Tibshirani, An Introduction to Statistical Learning, Springer ([link](http://faculty.marshall.usc.edu/gareth-james/ISL/))
+* **Machine Learning Textbooks**:<br />
+  * Bishop, [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer (more advanced)
+  * Efron and Hastie, [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/), Cambridge University Press (recommended)
+  * Goodfellow, Bengio, and Courville, [Deep Learning](https://www.deeplearningbook.org/), MIT Press (more advanced)
+  * Hastie, Tibshirani, Friedman, [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), Springer (more advanced)
+  * James, Witten, Hastie, and Tibshirani, [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), Springer (**required**)
+  * Murphy, [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), MIT Press (more advanced)
 
-* **Recommended Textbook**:<br />
-  * Efron and Hastie, Computer Age Statistical Inference, Cambridge University Press <br />
-  * Irizarry, Introduction to Data Science: Data Analysis and Prediction Algorithms in R, CRC Press ([link](https://rafalab.github.io/dsbook/))<br />
-  * Grolemund and Wickham, R for Data Science, O’Reilly ([link](https://r4ds.had.co.nz/))
-
-* **More Advanced Textbook**:<br />
-  Bishop, Pattern Recognition and Machine Learning, Springer ([link](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf))<br />
-  Goodfellow, Bengio, and Courville, Deep Learning, MIT Press ([link](https://www.deeplearningbook.org/))<br />
-  Hastie, Tibshirani, Friedman, The Elements of Statistical Learning, Springer ([link](https://web.stanford.edu/~hastie/ElemStatLearn/))<br />
-  Murphy, Machine Learning: A Probabilistic Perspective, MIT Press ([link](https://www.cs.ubc.ca/~murphyk/MLbook/))
+* **Other Machine Learning Resources**:<br />
+  * [Introduction to Data Science: Data Analysis and Prediction Algorithms in R](https://rafalab.github.io/dsbook/) by Rafael Irizarry
+  * [Machine Learning Lecture Notes](http://cs229.stanford.edu/syllabus.html) by Andrew Ng
+  * [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
+  * [Statistical Learning MOOC](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) by Trevor Hastie and Rob Tibshirani
 
 * **[Tips for Presentation](https://www.dropbox.com/s/k5ymqz8qflpeskl/Tips_for_presentations.pdf?dl=0)**
 
