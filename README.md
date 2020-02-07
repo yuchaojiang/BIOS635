@@ -76,5 +76,5 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
   Hastie, Tibshirani, Friedman, The Elements of Statistical Learning, Springer <br />
   Murphy, Machine Learning: A Probabilistic Perspective, MIT Press <br />
 
-
+* **[Tips for Presentation](https://www.dropbox.com/s/k5ymqz8qflpeskl/Tips_for_presentations.pdf?dl=0)**
 
