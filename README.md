@@ -62,7 +62,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ## Other Resources
 
-* **Required Textbook**: James, Witten, Hastie, and Tibshirani, An Introduction to Statistical Learning, Springer ([link](http://faculty.marshall.usc.edu/gareth-james/ISL/)).
+* **Required Textbook**:
+  James, Witten, Hastie, and Tibshirani, An Introduction to Statistical Learning, Springer ([link](http://faculty.marshall.usc.edu/gareth-james/ISL/)).
 
 * **Recommended Textbook**: Efron and Hastie, Computer Age Statistical Inference, Cambridge University Press (FREE online).<br />
 •	Irizarry, Introduction to Data Science: Data Analysis and Prediction Algorithms in R, CRC Press (FREE online).
