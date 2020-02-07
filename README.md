@@ -32,21 +32,21 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 2**: Curse of Dimensionality & Assessing Model Accuracy ([slides](https://www.dropbox.com/s/xvfnghxxyvo29r9/Lecture_2_curse_of_dimensionality_model_assessment.pdf?dl=0))
 
-* **Lecture 3**: Bias-Variance Tradeoff & K-Nearest Neighbor ([slides](https://www.dropbox.com/s/b18vww2jryeqzvd/Lecture_3_knn_bias_variance.pdf?dl=0), html)
+* **Lecture 3**: Bias-Variance Tradeoff & K-Nearest Neighbor ([slides](https://www.dropbox.com/s/b18vww2jryeqzvd/Lecture_3_knn_bias_variance.pdf?dl=0), [html](https://www.dropbox.com/s/b2ief97dq8pgp6s/KNN.html?dl=0))
 
-* **Lecture 4**: Linear Regression ([slides](https://www.dropbox.com/s/kvbxaxijkx6li39/Lecture_4_linear_regression.pdf?dl=0), html)
+* **Lecture 4**: Linear Regression ([slides](https://www.dropbox.com/s/kvbxaxijkx6li39/Lecture_4_linear_regression.pdf?dl=0), [html](https://www.dropbox.com/s/r0qgml0d2ccs0kp/Linear_Regression.html?dl=0))
 
-* **Lecture 5**: Logistic Regression ([slides](https://www.dropbox.com/s/03rlp16nxcla9dc/Lecture_5_logistic_regression.pdf?dl=0), html)
+* **Lecture 5**: Logistic Regression ([slides](https://www.dropbox.com/s/03rlp16nxcla9dc/Lecture_5_logistic_regression.pdf?dl=0), [html](https://www.dropbox.com/s/y9dy3q0dk8fc4i6/Logistic_Regression.html?dl=0))
 
-* **Lecture 6**: Linear/Discriminant Analysis ([slides](https://www.dropbox.com/s/t5588cr489wbmna/Lecture_6_LDA_QDA.pdf?dl=0), html)
+* **Lecture 6**: Linear/Discriminant Analysis ([slides](https://www.dropbox.com/s/t5588cr489wbmna/Lecture_6_LDA_QDA.pdf?dl=0), [html](https://www.dropbox.com/s/23jhtilj995ncjt/Discriminant_Analysis.html?dl=0))
 
-* **Lecture 7**: Naive Bayes ([slides](https://www.dropbox.com/s/xblwqsd2gx5m89u/Lecture_7_Naive_Bayes.pdf?dl=0), html)
+* **Lecture 7**: Naive Bayes ([slides](https://www.dropbox.com/s/xblwqsd2gx5m89u/Lecture_7_Naive_Bayes.pdf?dl=0), [html](https://www.dropbox.com/s/52a4kenmzb8q7p9/Discriminant_Analysis_Naive_Bayes.html?dl=0))
 
-* **Lecture 8**: Nonlinearity: Polynomial Regression, Spline & Generalized Additive Model ([slides](https://www.dropbox.com/s/qv0agbhjwr7wjhk/Lecture_8_Nonlinearity_Polynomial_Splines.pdf?dl=0), html)
+* **Lecture 8**: Nonlinearity: Polynomial Regression, Spline & Generalized Additive Model ([slides](https://www.dropbox.com/s/qv0agbhjwr7wjhk/Lecture_8_Nonlinearity_Polynomial_Splines.pdf?dl=0), [html](https://www.dropbox.com/s/p205xa6gf7ekzlq/Nonlinearity.html?dl=0))
 
-* **Lecture 9**: Cross-Validation ([slides](https://www.dropbox.com/s/nqb8pn78g816gxz/Lecture_9_Cross_Validation.pdf?dl=0), html)
+* **Lecture 9**: Cross-Validation ([slides](https://www.dropbox.com/s/nqb8pn78g816gxz/Lecture_9_Cross_Validation.pdf?dl=0), [html](https://www.dropbox.com/s/19uka0k3esit5c5/Cross_Validation.html?dl=0))
 
-* **Lecture 10**: Bootstrap ([slides](https://www.dropbox.com/s/qi3xfy7chz5ecyh/Lecture_10_Bootstrap.pdf?dl=0), html)
+* **Lecture 10**: Bootstrap ([slides](https://www.dropbox.com/s/qi3xfy7chz5ecyh/Lecture_10_Bootstrap.pdf?dl=0), [html](https://www.dropbox.com/s/az716rnneaqstww/Bootstrap.html?dl=0))
 
 ## Homework
 
