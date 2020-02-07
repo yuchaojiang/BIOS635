@@ -13,13 +13,11 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 **Description**: This course will be an introductory course to machine learning and statistical learning and is required for MPH students with Data Science concentration. While some technical details will be covered, emphasis will be made on understanding the models, intuitions, and strengths and weaknesses of the various approaches. The goal is to equip students with knowledge of existing tools for data analysis and to get students prepared for more advanced courses in machine learning. Programming language will be R – students will learn how to use the free and powerful software R in connection with each of the methods exposed in the class. For deep learning, Keras/TensorFlow in Python will be introduced if time permits.
 
-**Course Website**: https://github.com/yuchaojiang/BIOS635
-
 **Course Slack**: https://bios635.slack.com.
 
-**Syllabus**: here
+**Syllabus**: [link](https://www.dropbox.com/s/o7bu8kg1lcv74tc/BIOS%20635_Intro%20Machine%20Learning_Syllabus_v1.pdf?dl=0)
 
-**Tentative Schedule**: (link)[https://www.dropbox.com/s/75e4jzkr52i2qa2/CourseSchedule.pdf?dl=0]
+**Tentative Schedule**: [link](https://www.dropbox.com/s/75e4jzkr52i2qa2/CourseSchedule.pdf?dl=0)
 
 **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am, 2301, McGavran-Greenberg Hall.
 
