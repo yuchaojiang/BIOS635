@@ -28,11 +28,29 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ## Lecture Slides and R Markdowns
 
-* **Lecture 1**: 
+* **Lecture 1**: Introduction (slides)
+
+* **Lecture 2**: Curse of Dimensionality & Assessing Model Accuracy (slides)
+
+* **Lecture 3**: Bias-Variance Tradeoff & K-Nearest Neighbor (slides, html)
+
+* **Lecture 4**: Linear Regression (slides, html)
+
+* **Lecture 5**: Logistic Regression (slides, html)
+
+* **Lecture 6**: Linear/Discriminant Analysis (slides, html)
+
+* **Lecture 7**: Naive Bayes (slides, html)
+
+* **Lecture 8**: Nonlinearity: Polynomial Regression, Spline & Generalized Additive Model (slides, html)
+
+* **Lecture 9**: Cross-Validation (slides, html)
+
+* **Lecture 10**: Bootstrap (slides, html)
 
 ## Homework
 
-* **Assignment 1**:
+* **Assignment 1**: [rmd](), [data](), [solutions]()
 
 ## Project
 
@@ -42,8 +60,6 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Project 3**:
 
-
 ## Other Resources
 
-## Tips for Presentation
 
