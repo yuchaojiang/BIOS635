@@ -67,14 +67,14 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Recommended Textbook**:<br />
   Efron and Hastie, Computer Age Statistical Inference, Cambridge University Press <br />
-  Irizarry, Introduction to Data Science: Data Analysis and Prediction Algorithms in R, CRC Press <br />
-  Grolemund and Wickham, R for Data Science, O’Reilly
+  Irizarry, Introduction to Data Science: Data Analysis and Prediction Algorithms in R, CRC Press ([link](https://rafalab.github.io/dsbook/))<br />
+  Grolemund and Wickham, R for Data Science, O’Reilly ([link](https://r4ds.had.co.nz/))
 
 * **More Advanced Textbook**:<br />
-  Bishop, Pattern Recognition and Machine Learning, Springer <br />
-  Goodfellow, Bengio, and Courville, Deep Learning, MIT Press <br />
-  Hastie, Tibshirani, Friedman, The Elements of Statistical Learning, Springer <br />
-  Murphy, Machine Learning: A Probabilistic Perspective, MIT Press <br />
+  Bishop, Pattern Recognition and Machine Learning, Springer ([link](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf))<br />
+  Goodfellow, Bengio, and Courville, Deep Learning, MIT Press ([link](https://www.deeplearningbook.org/))<br />
+  Hastie, Tibshirani, Friedman, The Elements of Statistical Learning, Springer ([link](https://web.stanford.edu/~hastie/ElemStatLearn/))<br />
+  Murphy, Machine Learning: A Probabilistic Perspective, MIT Press ([link](https://www.cs.ubc.ca/~murphyk/MLbook/))
 
 * **[Tips for Presentation](https://www.dropbox.com/s/k5ymqz8qflpeskl/Tips_for_presentations.pdf?dl=0)**
 
