@@ -1,4 +1,4 @@
-![Image description](https://drive.google.com/file/d/125Iz2y5flIELSHwOOJAzkNKtHWhBoz2R/view?usp=sharing)
+![Image description](https://github.com/yuchaojiang/BIOS635/blob/master/Title.png)
 
 ## Instructor
 
