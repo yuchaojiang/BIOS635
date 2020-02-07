@@ -3,10 +3,15 @@
 ## Instructor
 
 Yuchao Jiang, PhD
+
 Assistant Professor
+
 Department of Biostatistics & Department of Genetics
+
 4115D McGavran-Greenberg Hall
+
 Phone:  919-843-3656
+
 Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ## Course Information
