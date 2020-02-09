@@ -35,7 +35,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 5**: Logistic Regression ([slides](https://www.dropbox.com/s/03rlp16nxcla9dc/Lecture_5_logistic_regression.pdf?dl=0), [html](https://www.dropbox.com/s/y9dy3q0dk8fc4i6/Logistic_Regression.html?dl=0))
 
-* **Lecture 6**: Linear/Discriminant Analysis ([slides](https://www.dropbox.com/s/t5588cr489wbmna/Lecture_6_LDA_QDA.pdf?dl=0), [html](https://www.dropbox.com/s/23jhtilj995ncjt/Discriminant_Analysis.html?dl=0))
+* **Lecture 6**: Linear/Quadratic Discriminant Analysis ([slides](https://www.dropbox.com/s/t5588cr489wbmna/Lecture_6_LDA_QDA.pdf?dl=0), [html](https://www.dropbox.com/s/23jhtilj995ncjt/Discriminant_Analysis.html?dl=0))
 
 * **Lecture 7**: Naive Bayes ([slides](https://www.dropbox.com/s/xblwqsd2gx5m89u/Lecture_7_Naive_Bayes.pdf?dl=0), [html](https://www.dropbox.com/s/52a4kenmzb8q7p9/Discriminant_Analysis_Naive_Bayes.html?dl=0))
 
@@ -49,7 +49,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Assignment 1** ([rmd](https://www.dropbox.com/s/yd9w13iu2d7bzc6/Assignment1.rmd?dl=0), [data](https://www.dropbox.com/s/ql5chsraaa2nkwn/data.zip?dl=0), [solutions](https://www.dropbox.com/s/xxk5l3zq3q45kn2/Assignment1_Solutions.html?dl=0))
 
-* **Assignment 2**
+* **Assignment 2** (rmd)
 
 * **Assignment 3**
 
