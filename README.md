@@ -49,7 +49,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Assignment 1** ([rmd](https://www.dropbox.com/s/yd9w13iu2d7bzc6/Assignment1.rmd?dl=0), [data](https://www.dropbox.com/s/ql5chsraaa2nkwn/data.zip?dl=0), [solutions](https://www.dropbox.com/s/xxk5l3zq3q45kn2/Assignment1_Solutions.html?dl=0))
 
-* **Assignment 2** (rmd)
+* **Assignment 2** ([rmd](https://www.dropbox.com/s/prgksbhtcgsad6w/Assignment2.rmd?dl=0))
 
 * **Assignment 3**
 
