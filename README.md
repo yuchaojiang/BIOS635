@@ -45,7 +45,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 10**: Bootstrap ([slides](https://www.dropbox.com/s/qi3xfy7chz5ecyh/Lecture_10_Bootstrap.pdf?dl=0), [html](https://www.dropbox.com/s/az716rnneaqstww/Bootstrap.html?dl=0))
 
-* **Lecture 11**: Stepwise Selection, Cp, AIC, BIC, and Adjusted R2 ([slides](https://www.dropbox.com/s/7jl5b11froj32ub/Lecture_11_Foward_Backward_Stepwise_Selection.pdf?dl=0), [html](https://www.dropbox.com/s/hdjpsmske6xhh5o/Stepwise_Selection.html?dl=0))
+* **Lecture 11**: Stepwise Selection, Cp, AIC, BIC & Adjusted R2 ([slides](https://www.dropbox.com/s/7jl5b11froj32ub/Lecture_11_Foward_Backward_Stepwise_Selection.pdf?dl=0), [html](https://www.dropbox.com/s/hdjpsmske6xhh5o/Stepwise_Selection.html?dl=0))
 
 ### Assignments
 
