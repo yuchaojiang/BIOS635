@@ -47,6 +47,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 11**: Subset/Stepwise Selection, AIC, BIC & Adjusted R-Squared ([slides](https://www.dropbox.com/s/7jl5b11froj32ub/Lecture_11_Foward_Backward_Stepwise_Selection.pdf?dl=0), [html](https://www.dropbox.com/s/hdjpsmske6xhh5o/Stepwise_Selection.html?dl=0))
 
+* **Lecture 12**: Shrinkage Methods, Ridge and Lasso Regression ([slides](https://www.dropbox.com/s/6wvzif6js0m8mcg/Lecture_12_Ridge_Lasso_Regression.pdf?dl=0), [html](https://www.dropbox.com/s/cd38i8itm6fnt3x/Ridge_Lasso.html?dl=0))
+
 ### Assignments
 
 * **Assignment 1** ([rmd](https://www.dropbox.com/s/yd9w13iu2d7bzc6/Assignment1.rmd?dl=0), [data](https://www.dropbox.com/s/ql5chsraaa2nkwn/data.zip?dl=0), [solutions](https://www.dropbox.com/s/xxk5l3zq3q45kn2/Assignment1_Solutions.html?dl=0))
