@@ -51,6 +51,10 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 13**: Principal Component Regression & Partial Least Squares ([slides](https://www.dropbox.com/s/zcnzue0meya4n9l/Lecture_13_Principal_Component_Analysis_Regression.pdf?dl=0), [html](https://www.dropbox.com/s/z4omrh5fs8c7vnf/PCA_PCR.html?dl=0))
 
+* **Lecture 14**: Decision Trees ([slides](https://www.dropbox.com/s/fq4a32v920e6804/Lecture_14_Decision_Trees.pdf?dl=0), [html](https://www.dropbox.com/s/h3m4n0gpv9yndhz/Decision_Trees.html?dl=0))
+
+* **Lecture 15**: Bagging, Boosting & Random Forest ([slides](https://www.dropbox.com/s/6od0gshjxbzczpv/Lecture_15_Bagging_Boosting_Random_Forest.pdf?dl=0), [html](https://www.dropbox.com/s/t1ulv0fd7jayp1n/Bagging_Boosting_Random_Forest.html?dl=0))
+
 ### Assignments
 
 * **Assignment 1** ([rmd](https://www.dropbox.com/s/yd9w13iu2d7bzc6/Assignment1.rmd?dl=0), [data](https://www.dropbox.com/s/ql5chsraaa2nkwn/data.zip?dl=0), [solutions](https://www.dropbox.com/s/xxk5l3zq3q45kn2/Assignment1_Solutions.html?dl=0))
