@@ -73,6 +73,12 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Project 3**: [Predict Parkinson’s Disease Progression with Smartphone Data](https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data)
 
+### Exams
+
+* **Midterm** ([review](https://www.dropbox.com/s/a6z8lbxn1ix52er/Midterm_Review.pdf?dl=0), exam, solutions)
+
+* **Final** (review, exam, solutions)
+
 ### Other Resources
 
 * **Machine Learning Textbooks**:<br />
