@@ -55,9 +55,9 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 15**: Bagging, Boosting & Random Forest ([slides](https://www.dropbox.com/s/6od0gshjxbzczpv/Lecture_15_Bagging_Boosting_Random_Forest.pdf?dl=0), [html](https://www.dropbox.com/s/t1ulv0fd7jayp1n/Bagging_Boosting_Random_Forest.html?dl=0))
 
-* **Lecture 16**: Support Vector Machines ([slides](https://www.dropbox.com/s/7ei01e1v3nlhxie/Lecture_16_Support_Vector_Machines.pdf?dl=0), html)
+* **Lecture 16**: Support Vector Machines ([slides](https://www.dropbox.com/s/7ei01e1v3nlhxie/Lecture_16_Support_Vector_Machines.pdf?dl=0), [html](https://www.dropbox.com/s/3sgizgi1jyxy442/SVM.html?dl=0))
 
-* **Lecture 17**: Kernel Methods ([slides](https://www.dropbox.com/s/u9q6mo4gsrbwxq4/Lecture_17_Kernel_Methods.pdf?dl=0), html)
+* **Lecture 17**: Kernel Methods ([slides](https://www.dropbox.com/s/u9q6mo4gsrbwxq4/Lecture_17_Kernel_Methods.pdf?dl=0), [html](https://www.dropbox.com/s/klsuk8qzadsyko7/Kernel.html?dl=0))
 
 ### Assignments
 
