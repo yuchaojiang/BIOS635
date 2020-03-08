@@ -71,7 +71,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ### Projects
 
-* **Project 1**: [Predict the Effect of Genetic Variants to enable Personalized Medicine](https://www.kaggle.com/c/msk-redefining-cancer-treatment/)
+* **Project 1**: [Predict the Effect of Genetic Variants to Enable Personalized Medicine](https://www.kaggle.com/c/msk-redefining-cancer-treatment/)
 
 * **Project 2**: [West Nile Virus Prediction](https://www.kaggle.com/c/predict-west-nile-virus/)
 
