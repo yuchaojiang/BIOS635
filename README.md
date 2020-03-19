@@ -15,7 +15,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **[Syllabus](https://www.dropbox.com/s/o7bu8kg1lcv74tc/BIOS%20635_Intro%20Machine%20Learning_Syllabus_v1.pdf?dl=0)**
 
-* **[Tentative Schedule](https://www.dropbox.com/s/75e4jzkr52i2qa2/CourseSchedule.pdf?dl=0)**
+* **[Tentative Schedule](https://www.dropbox.com/s/qoran00l1pfm2qz/CourseSchedule.pdf?dl=0)**
 
 * **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am, 2301 McGavran-Greenberg Hall.
 
