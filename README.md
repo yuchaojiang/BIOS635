@@ -15,7 +15,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **[Syllabus](https://www.dropbox.com/s/o7bu8kg1lcv74tc/BIOS%20635_Intro%20Machine%20Learning_Syllabus_v1.pdf?dl=0)**
 
-* **[Tentative Schedule](https://www.dropbox.com/s/qoran00l1pfm2qz/CourseSchedule.pdf?dl=0)**
+* **[Schedule](https://www.dropbox.com/s/qoran00l1pfm2qz/CourseSchedule.pdf?dl=0)**
 
 * **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am, 2301 McGavran-Greenberg Hall.
 
@@ -55,7 +55,9 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 15**: Bagging, Boosting & Random Forest ([slides](https://www.dropbox.com/s/6od0gshjxbzczpv/Lecture_15_Bagging_Boosting_Random_Forest.pdf?dl=0), [html](https://www.dropbox.com/s/t1ulv0fd7jayp1n/Bagging_Boosting_Random_Forest.html?dl=0))
 
-* **Lecture 16**: Support Vector Machines & Kernel Methods ([slides](https://www.dropbox.com/s/7ei01e1v3nlhxie/Lecture_16_Support_Vector_Machines.pdf?dl=0), [html](https://www.dropbox.com/s/3sgizgi1jyxy442/SVM.html?dl=0))
+* **Lecture 16**: Support Vector Classifier & Kernel Methods ([slides](https://www.dropbox.com/s/k3okedafpjz4478/Lecture_16_Support_Vector_Classifiers_.pdf?dl=0), [html](https://www.dropbox.com/s/lerkxnz1psd1jcn/Support_Vector_Classifier.html?dl=0))
+
+* **Lecture 17**: Support Vector Machine ([slides](https://www.dropbox.com/s/5is9iulgph3xd7l/Lecture_17_Support_Vector_Machine.pdf?dl=0), [html](https://www.dropbox.com/s/a7rfzucb857c3i9/SVM.html?dl=0))
 
 ### Assignments
 
