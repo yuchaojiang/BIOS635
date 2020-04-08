@@ -65,6 +65,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 20**: Gaussian Mixture Model & EM Algorithm ([slides](https://www.dropbox.com/s/jo6iinv8ryf139r/Lecture_20_Gaussian_Mixture_EM.pdf?dl=0), [html](https://www.dropbox.com/s/sujzhws4zxkx3vi/GMM.html?dl=0))
 
+* **Lecture 21**: Overview of Classification Algorithms & Project Guidelines ([slides](https://www.dropbox.com/s/xer1rrov1c4e9uh/Lecture_21_Practical_Guidelines_Project.pdf?dl=0))
+
 ### Assignments
 
 * **Assignment 1** ([rmd](https://www.dropbox.com/s/yd9w13iu2d7bzc6/Assignment1.rmd?dl=0), [data](https://www.dropbox.com/s/ql5chsraaa2nkwn/data.zip?dl=0), [solutions](https://www.dropbox.com/s/xxk5l3zq3q45kn2/Assignment1_Solutions.html?dl=0))
@@ -87,7 +89,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Midterm** ([review](https://www.dropbox.com/s/a6z8lbxn1ix52er/Midterm_Review.pdf?dl=0), [exam](https://www.dropbox.com/s/pywi8c8vluk20v0/midterm.pdf?dl=0), [solutions](https://www.dropbox.com/s/koaylbmicgozhqu/midterm_solutions.pdf?dl=0))
 
-* **Final** (review, exam, solutions)
+* **Final** (waived due to COVID-19)
 
 ### Other Resources
 
