@@ -57,17 +57,21 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 16**: Midterm Review ([slides](https://www.dropbox.com/s/a6z8lbxn1ix52er/Lecture_16_Midterm_Review.pdf?dl=0))
 
-* **Lecture 16**: Support Vector Classifier & Kernel Methods ([slides](https://www.dropbox.com/s/wmjx7ajeknk8wnz/Lecture_16_Support_Vector_Classifiers_Kernel.pdf?dl=0), [html](https://www.dropbox.com/s/lerkxnz1psd1jcn/Support_Vector_Classifier.html?dl=0))
+* **Lecture 17**: Support Vector Classifier & Kernel Methods ([slides](https://www.dropbox.com/s/wmjx7ajeknk8wnz/Lecture_16_Support_Vector_Classifiers_Kernel.pdf?dl=0), [html](https://www.dropbox.com/s/lerkxnz1psd1jcn/Support_Vector_Classifier.html?dl=0))
 
-* **Lecture 17**: Support Vector Machine ([slides](https://www.dropbox.com/s/5is9iulgph3xd7l/Lecture_17_Support_Vector_Machine.pdf?dl=0), [html](https://www.dropbox.com/s/a7rfzucb857c3i9/SVM.html?dl=0))
+* **Lecture 18**: Support Vector Machine ([slides](https://www.dropbox.com/s/5is9iulgph3xd7l/Lecture_17_Support_Vector_Machine.pdf?dl=0), [html](https://www.dropbox.com/s/a7rfzucb857c3i9/SVM.html?dl=0))
 
-* **Lecture 18**: Unsupervised Learning (Dimension Reduction) ([slides](https://www.dropbox.com/s/4f5rhbbu9w2wczj/Lecture_18_dimension_reduction.pdf?dl=0), [html](https://www.dropbox.com/s/gshykuhjypz7268/dim_reduction.html?dl=0))
+* **Lecture 19**: Unsupervised Learning (Dimension Reduction) ([slides](https://www.dropbox.com/s/4f5rhbbu9w2wczj/Lecture_18_dimension_reduction.pdf?dl=0), [html](https://www.dropbox.com/s/gshykuhjypz7268/dim_reduction.html?dl=0))
 
-* **Lecture 19**: K-Means Clustering & Hierarchical Clustering ([slides](https://www.dropbox.com/s/wv1gjsxjldrh4e0/Lecture_19_k_means_hierarchical_clustering.pdf?dl=0), [html](https://www.dropbox.com/s/6aijrx2eahgc1go/kmeans_hierarchical.html?dl=0))
+* **Lecture 20**: K-Means Clustering & Hierarchical Clustering ([slides](https://www.dropbox.com/s/wv1gjsxjldrh4e0/Lecture_19_k_means_hierarchical_clustering.pdf?dl=0), [html](https://www.dropbox.com/s/6aijrx2eahgc1go/kmeans_hierarchical.html?dl=0))
 
-* **Lecture 20**: Gaussian Mixture Model & EM Algorithm ([slides](https://www.dropbox.com/s/jo6iinv8ryf139r/Lecture_20_Gaussian_Mixture_EM.pdf?dl=0), [html](https://www.dropbox.com/s/sujzhws4zxkx3vi/GMM.html?dl=0))
+* **Lecture 21**: Gaussian Mixture Model & EM Algorithm ([slides](https://www.dropbox.com/s/jo6iinv8ryf139r/Lecture_20_Gaussian_Mixture_EM.pdf?dl=0), [html](https://www.dropbox.com/s/sujzhws4zxkx3vi/GMM.html?dl=0))
 
-* **Lecture 21**: Overview of Classification Algorithms & Project Guidelines ([slides](https://www.dropbox.com/s/xer1rrov1c4e9uh/Lecture_21_Practical_Guidelines_Project.pdf?dl=0))
+* **Lecture 22**: Overview of Classification Algorithms & Project Guidelines ([slides](https://www.dropbox.com/s/xer1rrov1c4e9uh/Lecture_21_Practical_Guidelines_Project.pdf?dl=0))
+
+* **Lecture 23**: Gradient Descent & Forward/Backward Propagation ([slides](https://www.dropbox.com/s/mpubkndjpyy1ef4/Lecture_23_Forward_Backward_Propagation.pdf?dl=0))
+
+* **Lecture 24**: Deep Neural Network & Big Data ([slides](https://www.dropbox.com/s/nv4pefcbam1nd8u/Lecture_24_Deep_Neural_Network_Big_Data.pdf?dl=0))
 
 ### Assignments
 
