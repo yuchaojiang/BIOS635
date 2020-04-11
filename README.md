@@ -87,7 +87,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ### Exams
 
-* **Midterm** ([review](https://www.dropbox.com/s/a6z8lbxn1ix52er/Midterm_Review.pdf?dl=0), [exam](https://www.dropbox.com/s/pywi8c8vluk20v0/midterm.pdf?dl=0), [solutions](https://www.dropbox.com/s/koaylbmicgozhqu/midterm_solutions.pdf?dl=0))
+* **Midterm** ([exam](https://www.dropbox.com/s/pywi8c8vluk20v0/midterm.pdf?dl=0), [solutions](https://www.dropbox.com/s/koaylbmicgozhqu/midterm_solutions.pdf?dl=0))
 
 * **Final** (waived due to COVID-19)
 
