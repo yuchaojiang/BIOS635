@@ -71,7 +71,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 23**: Gradient Descent & Forward/Backward Propagation ([slides](https://www.dropbox.com/s/mpubkndjpyy1ef4/Lecture_23_Forward_Backward_Propagation.pdf?dl=0))
 
-* **Lecture 24**: Deep Neural Network & Big Data ([slides](https://www.dropbox.com/s/nv4pefcbam1nd8u/Lecture_24_Deep_Neural_Network_Big_Data.pdf?dl=0))
+* **Lecture 24**: Deep Neural Network ([slides](https://www.dropbox.com/s/nv4pefcbam1nd8u/Lecture_24_Deep_Neural_Network_Big_Data.pdf?dl=0))
 
 ### Assignments
 
