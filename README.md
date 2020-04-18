@@ -81,7 +81,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Assignment 3** ([rmd](https://www.dropbox.com/s/cb6ubr2ukjbxxyd/Assignment3.rmd?dl=0), [solutions](https://www.dropbox.com/s/r00hmlq6mtzoamw/Assignment3_solutions.html?dl=0))
 
-* **Assignment 4** ([rmd](https://www.dropbox.com/s/w12hfv3x1z1pfyq/Assignment4.rmd?dl=0), solutions)
+* **Assignment 4** ([rmd](https://www.dropbox.com/s/w12hfv3x1z1pfyq/Assignment4.rmd?dl=0), [solutions](https://www.dropbox.com/s/hneuxmm47lyq9h1/Assignment4_solutions.html?dl=0))
 
 ### Projects
 
